@@ -1,4 +1,4 @@
-# react-redux-registration-login-example
+# its a copy from react-redux-registration-login-example
 
 React + Redux - User Registration and Login Tutorial & Example
 
